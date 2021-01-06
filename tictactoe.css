@@ -1,6 +1,11 @@
+body {
+  background-color: #f6f0c4;
+background-image: linear-gradient(315deg, #f6f0c4 0%, #d99ec9 74%);
+}
+
 .jumbotron {
-  margin: 5% auto;
-  margin-left: 43%;
+  text-align: center;
+  
 }
 
 td {
@@ -13,4 +18,8 @@ td {
 
 table {
   margin: auto auto;
+}
+
+button {
+  background: transparent;
 }
